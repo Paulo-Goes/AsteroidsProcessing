@@ -1,0 +1,28 @@
+Make flexible controls system
+(perhaps make presets?)
+
+Customize the UI more
+
+Revamp overall code
+
+Analize for redundunt calls
+
+Implement more messages
+
+Wave system
+
+dificulty system
+
+Score multiplier
+
+asteroid division
+
+Control instructions
+
+fix options
+
+fix the animations of explosions
+
+Better score view
+
+options to not show movement
